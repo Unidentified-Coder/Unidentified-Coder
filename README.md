@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Names Rodas and Im a Frontend Developer from London
+My tech stack is: Reactjs Framer-Motion and Tailwind CSS (Hopefully)
+
+I like Anime (![Jujutsu Kisen](https://github.com/user-attachments/assets/7a9a6c3e-4343-4235-998b-2d1bb27dcb59)![Demon Slayer](https://github.com/user-attachments/assets/b10b681d-5346-4d1f-b01c-178ef7a89d90)
+
+
