@@ -24,7 +24,9 @@ My 2 Main Repos:
 https://github.com/Unidentified-Coder/React-Projects.
 https://github.com/Unidentified-Coder/Coding-Projects.
 
-I like Anime: 
-([Jujutsu Kisen](https://github.com/user-attachments/assets/7a9a6c3e-4343-4235-998b-2d1bb27dcb59)![Demon Slayer](https://github.com/user-attachments/assets/b10b681d-5346-4d1f-b01c-178ef7a89d90)
+I like Anime:
+
+<img src= "https://github.com/user-attachments/assets/7a9a6c3e-4343-4235-998b-2d1bb27dcb59" width=100/>
+<img src= "https://github.com/user-attachments/assets/b10b681d-5346-4d1f-b01c-178ef7a89d90" width=100/>
 
 
